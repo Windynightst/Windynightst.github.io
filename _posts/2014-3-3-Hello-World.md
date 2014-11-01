@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: CrowdRecruiter: Selecting Participants for Piggyback Crowdsensing under Probabilistic Coverage Constraint 
 ---
-
-## CrowdRecruiter: Selecting Participants for Piggyback Crowdsensing under Probabilistic Coverage Constraint ##
-
 **Summary：**
 
 This paper proposes a novel participant selection framework, named CrowdRecruiter, for mobile crowdsensing. CrowdRecruiter operates on top of PCS and minimizes incentive payments by selecting a small number of participants while still satisfying probabilistic coverage constraint. The author used cell towers as the coverage metrics, that is, if the number of cell towers in a given region being covered is larger than a threshold, then we can say that the area is covered. 
